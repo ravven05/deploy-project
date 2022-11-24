@@ -1,0 +1,21 @@
+ body {
+    background-image: url(http://2.bp.blogspot.com/-GUVTImuU5qE/UQKq_BPZb0I/AAAAAAAABXU/E_3MhCUcykQ/s1600/the-last-of-us-background-1.jpg); 
+}
+
+
+.productsPage {
+      display: flex;
+}
+.products {
+    margin-left: 250px;
+    padding-top: 30px;
+}
+
+.title {
+    font-family:Verdana, Geneva, Tahoma, sans-serif;
+    font-size: 40px;
+    color: rgb(33, 39, 32);
+    background-color: rgb(255, 255, 255);
+    text-align: center;
+    text-transform:uppercase;
+}

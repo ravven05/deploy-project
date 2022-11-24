@@ -1,0 +1,21 @@
+.products-menu {
+    display: flex;
+    flex-direction: row;
+    justify-content: space-between;
+    align-items: center;
+    margin-top: 10px;
+} 
+
+.products-block {
+    background-color: rgb(57, 71, 71);
+    width: 600px; 
+    color: wheat;
+    height: 400px;
+    margin-top: 40px;
+}
+
+.lol {
+    margin-top: 20px;
+    margin-left: 70px;
+    color: black;
+}
